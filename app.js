@@ -153,7 +153,8 @@ window.addEventListener("DOMContentLoaded", () => {
 //  After refresh, you should see in New Tasks (#section3) that:
 //  • “Task 2” is now “✅ Replaced Task 2”
 //  • The console will show “Before replace” and “After replace”
-//  • The second item should keep the same data-id value it had before replacement
+//  • The second item should keep the same data-id value it had before replacement.
 
 >>>>>>> f10f69aa1de65cb7cebee4ed362d2bb83514f94f
+
 
